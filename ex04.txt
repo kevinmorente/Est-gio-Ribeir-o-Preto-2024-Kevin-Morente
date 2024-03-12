@@ -1,0 +1,5 @@
+Ao enfrentar o desafio de descobrir qual interruptor controla cada lâmpada, escolhi uma abordagem eficiente. 
+Na primeira etapa, liguei o primeiro interruptor e o mantive ligado por alguns minutos antes de desligá-lo. 
+Em seguida, durante esse intervalo, liguei o segundo interruptor. Ao entrar na sala onde as lâmpadas estão localizadas, observei as condições. 
+Se a lâmpada estiver acesa, identifico que o segundo interruptor está associado a essa lâmpada. Se a lâmpada estiver apagada, mas ainda estiver quente, concluo que o primeiro interruptor controla essa lâmpada. 
+Caso a lâmpada esteja apagada e fria, deduzo que o terceiro interruptor está vinculado a essa lâmpada. Com esse método simples e apenas duas visitas à sala das lâmpadas, consegui determinar com sucesso qual interruptor controla cada uma delas.
